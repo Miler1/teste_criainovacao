@@ -1,7 +1,7 @@
-# teste_criainovacao
+# Teste Cria inovação
 
-O projeto foi desenvolvido na linguagem Java. Para a entrada de dados utilizou-se o console via terminal para executar o sistema 
-pode ser aberto em qualquer IDE com o Java configurado para execução.
+O projeto foi desenvolvido na linguagem Java na versão 1.8 com a IDE Intellij. Para a entrada de dados utilizou-se o console via terminal para executar o sistema 
+pode ser aberto em qualquer IDE de preferência com o Java configurado para execução.
 
 # Pelo terminal
 executar o comando:
@@ -10,4 +10,4 @@ executar o comando:
 
 <b>java</b> JavaApplication1
 
-Ao informar a palavra pelo console favor informar a palavra para busca entre aspas duplas "Achafundar", "Abacamartado".
+Em ambas as formas de execução do projeto ao informar a palavra pelo console favor informar entre aspas duplas "Achafundar", "Abacamartado".

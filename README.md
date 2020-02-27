@@ -9,4 +9,4 @@ executar o comando:
 
 <b>java</b> JavaApplication1
 
-Em ambas as formas de execução do projeto ao informar a palavra pelo console favor informar entre aspas duplas "Achafundar", "Abacamartado".
+Em ambas as formas de execução do projeto ao informar a palavra pelo console favor informar entre aspas duplas "Achafundar", "Abacamartado" e etc.

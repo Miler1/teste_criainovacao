@@ -8,6 +8,6 @@ executar o comando:
 
 <b>javac</b> JavaApplication1.java
 
-java JavaApplication1
+<b>java</b> JavaApplication1
 
 Ao informar a palavra pelo console favor informar a palavra para busca entre aspas duplas "Achafundar", "Abacamartado".

@@ -24,10 +24,7 @@ public class findIndexInTheDictionary {
         boolean nao_repetiu = false;
         for (int i = 0; i < v.size(); i++) {
             if (v.get(i).intValue() != value) {
-                nao_repetiu = true;
-                if (nao_repetiu) {
-                    return true;
-                }
+                return true;
             }
         }
         return false;
